@@ -1,0 +1,5 @@
+Features of the Swimulator 
+  - take two ivy league swim teams and predict which team will win based off of personal best times 
+      - each swimmer can only swim four events 
+      - read in swimmer data from a file 
+      - perhaps introduce randomness (prediction)
