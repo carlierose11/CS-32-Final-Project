@@ -71,3 +71,5 @@ for event, names in event_results.items():
         team_points[team] += points[i]
 
 print(team_points)
+
+
