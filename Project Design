@@ -5,17 +5,19 @@ Features of the Swimulator
       - perhaps introduce randomness (prediction)
 Roadmap 
   - High Priority 
-      - create a data structure that can hold a swimmer 
-      - simulate a swim meet between two teams
-      - calculate number of points 
-      - print the winners, detailed statistic info, results from events 
+      - create a data structure that can hold a swimmer [skipped]
+      - simulate a swim meet between two teams [done]
+      - calculate number of points [done]
+      - print the winners, detailed statistic info, results from events [partial]
   - Medium Priority 
-      - read in the swimmers from a file 
-      - allow swimmers to not particpate in certain events (only participate in four)
-      - add randomness (not always assumed to get best times)
+      - read in the swimmers from a file [done]
+      - allow swimmers to not particpate in certain events (only participate in four) [mostly done]
+      - add randomness (not always assumed to get best times) [done]
   - Low Priority (if we have time) 
       - incorporate relays and diving 
       - optimizer
         - find combinations of events that give a team the highest chance of winning 
       - simulations (run many trials as opposed to one single meet）
+
+
     
